@@ -1,6 +1,6 @@
 # frontbox
 
-# Projeto Site Frontbox Site
+# Projeto Site Frontbox
 
 ## Introdução
 
